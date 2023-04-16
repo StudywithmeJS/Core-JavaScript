@@ -1,3 +1,5 @@
+# 불변값과 가변값
+
 ## 1. 기본형 데이터와 참조형 데이터
 
 ### 1) 상수와 불변값
@@ -104,20 +106,19 @@ console.log(obj1 === obj2); // true
 
   ```js
   var user = {
-      name: "Jaenam",
-      urls: {
-      	portfolio: "https://github.com/abc",
-        blog: "http://blog.com",
-        facebook: "http://facebook.com/abc"
-      }
+    name: "Jaenam",
+    urls: {
+      portfolio: "https://github.com/abc",
+      blog: "http://blog.com",
+      facebook: "http://facebook.com/abc",
+    },
   };
 
   var user2 = copyObejct(user);
-  user2.name = "Jung"
-  user.urls.portfolio = 'http:portfolio.com";
-  console.log(user.name === user2.name) // false
-  console.log(user.urls.portfolio === user2.urls.portfolio) // true
-
+  user2.name = "Jung";
+  user.urls.portfolio = "http:portfolio.com";
+  console.log(user.name === user2.name); // false
+  console.log(user.urls.portfolio === user2.urls.portfolio); // true
   ```
 
   user객체에 직접 속한 프로퍼티에 대해 복사해서 완전히 새로운 데이터가 만들어진 반면, 한 단계 더 들어간 urls의 내부 프로퍼티들은 기존 데이터를 그대로 참조함.
@@ -126,28 +127,28 @@ console.log(obj1 === obj2); // true
 
   - 객체의 깊은 복사를 수행하는 범용함수
 
-  ```js
-  var copyObjectDeep = function (target) {
-    var result = {};
-    if (typeof target === "object" && target !== null) {
-      for (var prop in target) {
-        result[prop] = copyObjectDeep(target[prop]);
+    ```js
+    var copyObjectDeep = function (target) {
+      var result = {};
+      if (typeof target === "object" && target !== null) {
+        for (var prop in target) {
+          result[prop] = copyObjectDeep(target[prop]);
+        }
+      } else {
+        result = target;
       }
-    } else {
-      result = target;
-    }
-    return result;
-  };
-  ```
+      return result;
+    };
+    ```
 
-  target이 객체인 경우에는 내부 프로퍼티들을 순회하며 copyObjectDeep 함수를 `재귀적으로 호출`.
+    target이 객체인 경우에는 내부 프로퍼티들을 순회하며 copyObjectDeep 함수를 `재귀적으로 호출`.
 
   - JSON을 활용한 간단한 깊은 복사
 
-  ```js
-  var copyObjectViaJSON = function (target) {
-    return JSON.parse(JSON.stringify(target));
-  };
-  ```
+    ```js
+    var copyObjectViaJSON = function (target) {
+      return JSON.parse(JSON.stringify(target));
+    };
+    ```
 
-  [JSON과 JS Object의 차이점](https://velog.io/@kysung95/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D-JSON%EA%B3%BC-JavaScript-Object%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+    [JSON과 JS Object의 차이점](https://velog.io/@kysung95/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D-JSON%EA%B3%BC-JavaScript-Object%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
