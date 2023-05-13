@@ -1,14 +1,14 @@
 # 🎯코어 자바스크립트 스터디
-
 <br>
+
 ## 📒교재
-* [코어 자바스크립트](http://www.yes24.com/Product/Goods/78586788)
+[코어 자바스크립트](http://www.yes24.com/Product/Goods/78586788)
 <br>
 
 ## 👩‍💻팀원
 |백수연|신은수|오연주|
 |:-----------:|:-----------:|:-----------:|
-| <img width="180px" src="https://avatars.githubusercontent.com/u/80268199?v=4">| <img width="180px" src="https://avatars.githubusercontent.com/u/75666099?v=4"> | <img width="180px" src="\https://avatars.githubusercontent.com/u/117130358?v=4"> |
+| <img width="180px" src="https://avatars.githubusercontent.com/u/80268199?v=4">| <img width="180px" src="https://avatars.githubusercontent.com/u/75666099?v=4"> | <img width="180px" src="https://avatars.githubusercontent.com/u/117130358?v=4"> |
 |🔗 <a href="https://github.com/sypaik-dev">sypaik-dev</a>|🔗 <a href= "https://github.com/ShinEun9">ShinEun9</a>|🔗 <a href="https://github.com/Oh5Yeonju">Oh5Yeonju</a>|
 
 <br>
@@ -35,7 +35,7 @@
 <br>
 
 ## 👩‍💻진행상황
-**1주차 (04.03 ~ 04.08)**<br>
+### 1주차 (04.03 ~ 04.08)<br>
 [데이터 타입](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week01)
 
 **2주차 (04.09 ~ 04.15)**<br>
