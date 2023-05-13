@@ -1,8 +1,8 @@
 # 🎯코어 자바스크립트 스터디
 
+<br>
 ## 📒교재
 * [코어 자바스크립트](http://www.yes24.com/Product/Goods/78586788)
-
 <br>
 
 ## 👩‍💻팀원
@@ -35,21 +35,21 @@
 <br>
 
 ## 👩‍💻진행상황
-**1주차 (04.03 ~ 04.08)**
-01. [데이터 타입](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week01)
+**1주차 (04.03 ~ 04.08)**<br>
+[데이터 타입](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week01)
 
-**2주차 (04.09 ~ 04.15)**
-02. [실행 컨텍스트](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week02)
+**2주차 (04.09 ~ 04.15)**<br>
+[실행 컨텍스트](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week02)
 
-**3주차 (04.16 ~ 04.22)**
-03. [this](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week03)
+**3주차 (04.16 ~ 04.22)**<br>
+[this](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week03)
 
-**4주차 (04.23 ~ 04.29)**
-04. [this 마무리](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week04)
+**4주차 (04.23 ~ 04.29)**<br>
+[this 마무리](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week04)
 
-**5주차 (04.30 ~ 05.06)**
-05. [콜백함수](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week05)
+**5주차 (04.30 ~ 05.06)**<br>
+[콜백함수](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week05)
 
-**6주차 (05.07 ~ 05.13)**
-06. [클로저](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week06)
+**6주차 (05.07 ~ 05.13)**<br>
+[클로저](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week06)
 
