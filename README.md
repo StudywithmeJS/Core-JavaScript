@@ -1,8 +1,8 @@
 # 🎯코어 자바스크립트 스터디
-<br>
 
 ## 📒교재
 [코어 자바스크립트](http://www.yes24.com/Product/Goods/78586788)
+
 <br>
 
 ## 👩‍💻팀원
@@ -33,23 +33,23 @@
 2. 자신의 PR에 모두 리뷰가 달리면 PR을 스스로 머지합니다.
 
 <br>
-
+ 
 ## 👩‍💻진행상황
 ### 1주차 (04.03 ~ 04.08)<br>
 [데이터 타입](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week01)
 
-**2주차 (04.09 ~ 04.15)**<br>
+### 2주차 (04.09 ~ 04.15)<br>
 [실행 컨텍스트](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week02)
 
-**3주차 (04.16 ~ 04.22)**<br>
+### 3주차 (04.16 ~ 04.22)<br>
 [this](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week03)
 
-**4주차 (04.23 ~ 04.29)**<br>
+### 4주차 (04.23 ~ 04.29)<br>
 [this 마무리](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week04)
 
-**5주차 (04.30 ~ 05.06)**<br>
+### 5주차 (04.30 ~ 05.06)<br>
 [콜백함수](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week05)
 
-**6주차 (05.07 ~ 05.13)**<br>
+### 6주차 (05.07 ~ 05.13)<br>
 [클로저](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week06)
 
