@@ -2,7 +2,7 @@
 
 ## 정리
 
-**오연주** <br>
+### 오연주 <br>
 [02-01. 실행컨텍스트](https://velog.io/@web4987/%EC%BD%94%EC%96%B4-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-2.-Lexical-Environment) 
 
 신은수 [02-02. 호이스팅](https://www.notion.so/89bbbc697da6492b96f4f884fdb5a9af)
