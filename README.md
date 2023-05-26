@@ -52,3 +52,9 @@
 ### 6주차 (05.07 ~ 05.13)<br>
 [클로저](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week06)
 
+### 7주차 (05.14 ~ 05.20)<br>
+[클로저 마무리 & 프로토타입](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week07)
+
+### 7주차 (05.21 ~ 05.27)<br>
+[프로토타입 & 클래스](https://github.com/StudywithmeJS/Core-JavaScript/tree/main/week08)
+
