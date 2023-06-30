@@ -5,10 +5,32 @@
 <br>
 
 ## 👩‍💻팀원
-|백수연|신은수|오연주|
-|:-----------:|:-----------:|:-----------:|
-| <img width="180px" src="https://avatars.githubusercontent.com/u/80268199?v=4">| <img width="180px" src="https://avatars.githubusercontent.com/u/75666099?v=4"> | <img width="180px" src="https://avatars.githubusercontent.com/u/117130358?v=4"> |
-|🔗 <a href="https://github.com/sypaik-dev">sypaik-dev</a>|🔗 <a href= "https://github.com/ShinEun9">ShinEun9</a>|🔗 <a href="https://github.com/Oh5Yeonju">Oh5Yeonju</a>|
+<table align="center">
+  <tr>
+    <td>
+      <img width="180px" src="https://avatars.githubusercontent.com/u/80268199?v=4">
+    </td>
+    <td>
+      <img width="180px" src="https://avatars.githubusercontent.com/u/75666099?v=4">
+    </td>
+    <td>
+      <img width="180px" src="https://avatars.githubusercontent.com/u/117130358?v=4">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/sypaik-dev">sypaik-dev</a>
+    </td>
+    <td>
+      <a href="https://github.com/ShinEun9">ShinEun9</a>
+    </td>
+    <td>
+      <a href="https://github.com/Oh5Yeonju">Oh5Yeonju</a>
+    </td>
+  </tr>
+</table>
+
+
 
 <br>
 
